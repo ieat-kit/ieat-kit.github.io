@@ -1,0 +1,52 @@
+site_name: Initiative Ethical Academic Ties at KIT
+# repo_url: https://github.com/ieat-kit/ieat-kit.github.io
+# edit_uri: edit/main/docs/
+markdown_extensions:
+  - attr_list
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+theme:
+  name: material
+  language: en
+  #logo: imagens/Logo.png
+  #favicon: imagens/favicon.ico
+  features:
+  - navigation.tabs
+  - content.action.edit
+  - content.action.view
+#  palette:
+#    primary:
+#    accent:
+# I'll keep it here for the future
+# plugins:
+#  - blog
+# extra:
+#  social:
+    # - icon: fontawesome/brands/mastodon
+    #   link: 
+    #   name: 
+    # - icon: fontawesome/brands/twitter
+    #   link: 
+    #   name: 
+    # - icon: fontawesome/brands/instagram
+    #   link: 
+    #   name: 
+    # - icon: fontawesome/brands/facebook
+    #   link: 
+    #   name: 
+    # - icon: fontawesome/brands/github
+    #   link: 
+    #   name: 
+    # - icon: fontawesome/regular/envelope
+    #   link: 
+    #   name: email of IEAT
+    
+nav:
+- About: index.md
+- Letter: letter.md
+- Contact: SUPPORT.md
