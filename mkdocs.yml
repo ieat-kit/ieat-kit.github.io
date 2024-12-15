@@ -13,8 +13,8 @@ markdown_extensions:
 theme:
   name: material
   language: en
-  #logo: imagens/Logo.png
-  #favicon: imagens/favicon.ico
+  logo: images/favicon.ico
+  favicon: images/favicon.ico
   features:
   - navigation.tabs
   - content.action.edit
