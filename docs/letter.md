@@ -1,4 +1,4 @@
-# Letter
+# Our Letter
 
 To the _KIT_ executive board,  
  To the members of the _KIT_ senate,  

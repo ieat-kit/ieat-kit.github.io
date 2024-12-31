@@ -48,5 +48,7 @@ theme:
     
 nav:
 - About: index.md
-- Letter: letter.md
+- Our Letter: 
+  - English: letter.md
+  - German: letter-de.md
 - Contact: SUPPORT.md
