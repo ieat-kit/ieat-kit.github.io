@@ -53,6 +53,65 @@ Universitäten sollten sich vor allem mit den Fakten auseinandersetzen und die B
 
 Verfasst von den Mitgliedern der “Initiative for Ethical Academic Ties at _KIT_“.
 
+## Unterschriften
+
+Zusätzlich zu den 56 öffentlichen Unterschriften, wollen 94 Mitarbeiter und Mitarbeiterinnen des KIT, dass ihre Unterschrift anonym bleibt.  Unterschriften wurden zuletzt am 16 Dezember 2024 aktualisiert.
+
+* Dr. Maximilian Tschol
+* Dr. Conor Simpson
+* Ehmedi Al Omar
+* Luca Rettenberger
+* Flavia Digiacomo
+* Anna Reeves MSc
+* Dr. Martinez Dominguez
+* Sarah Ho
+* Franziska Schmaltz
+* Dr.-Ing. Andre Delavault
+* Dr. Wallyson Thomas Alves da Silva
+* Nathan Ray
+* Razan Alsharqawi
+* Knispel de Acosta
+* Prof. Dr.-Ing Marwan Younis
+* Malki Maliha
+* Giorgia Savettiere
+* Michele Mesiti
+* Tobias WeingÃ¤rtner
+* Ali Abou-Sena
+* Dr. Louis Garenaux
+* Romain Maure
+* Dr. Dima El Khechen
+* Sarah Makarem
+* Prof. Dr. Ing., Dr. h.c., Dr. ing. E. h. mult. Werner Wiesbeck
+* Enrico Sireci MSc
+* Fritzi Ziebell
+* Dr. Hans Agurto-Detzel
+* Lorenzo Del Puppo MSc
+* Falk Rohloff
+* Fatima Azahra Bensalah
+* Paul Erhardt
+* Ritika Dhundhwal
+* Domenico Riggio MSc
+* Rebecca Wiegels
+* Hadeer El Ashhab
+* Dr. Francisco Arco
+* Joanna Raymond
+* Dipl.Ing. Muhamet Spahiu
+* Shadi Al-Tobul
+* Dr. Rafaela Debastiani
+* Nasrin Mostafavipak
+* Dr. Michal Kaminski
+* Tobias Laimer
+* Dr. Adrien Damseaux 
+* Sabrina Bittencourt Medeiros Drummond MSc
+* Luna Labenz
+* Ingo Laubenthal
+* Pauline Leys
+* Yannik Woordes
+* Franziska Meinherz
+* Tim Kurtz
+* Beatriz Lista Lema
+* Falastine Abusaif
+
 [^1]: <https://www.ethik.kit.edu/leitlinien.php>
 [^2]: <https://www.icj-cij.org/sites/default/files/case-related/186/186-20240719-sum-01-00-en.pdf>
 [^3]: <https://documents.un.org/doc/undoc/gen/g22/337/18/pdf/g2233718.pdf>
