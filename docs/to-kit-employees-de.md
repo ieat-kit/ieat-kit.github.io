@@ -16,4 +16,6 @@ Universitäten haben die Verantwortung, die Menschenrechte und das international
 
 Wir sind ein Kollektiv von Mitarbeitern und Mitarbeiterinnen des KIT, die fordern, dass sich das KIT zur Einhaltung der Menschenrechte und des Völkerrechts verpflichtet.
 
-Die genauen Forderungen der Initiative for Ethical Academic Ties sowie die Hintergründe werden in unserem offenen Brief erläutert. Bitte unterstützen Sie den Brief durch Ihre Unterschrift über dieses Formular (anonyme Unterschriften sind möglich): <https://my.liberaforms.org/kit-initiative-for-ethical-academic-ties>
+Die genauen Forderungen der Initiative for Ethical Academic Ties sowie die Hintergründe werden in [unserem offenen Brief] erläutert. Bitte unterstützen Sie den Brief durch Ihre Unterschrift über dieses Formular (anonyme Unterschriften sind möglich): <https://my.liberaforms.org/kit-initiative-for-ethical-academic-ties>
+
+[unserem offenen Brief]: ./letter-de.md

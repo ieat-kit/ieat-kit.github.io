@@ -17,4 +17,6 @@ It is our view, that through maintaining close academic ties with Israeli instit
 
 We are a collective of staff members at KIT that demand KIT commit to uphold human rights and international law.
 
-Please support our open letter by adding your signature via this form (anonymous signatures are possible): <https://my.liberaforms.org/kit-initiative-for-ethical-academic-ties>
+Please support [our open letter] by adding your signature via this form (anonymous signatures are possible): <https://my.liberaforms.org/kit-initiative-for-ethical-academic-ties>
+
+[our open letter]: ./letter.md
