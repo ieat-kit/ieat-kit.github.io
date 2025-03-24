@@ -25,8 +25,8 @@ theme:
 # I'll keep it here for the future
 # plugins:
 #  - blog
-# extra:
-#  social:
+extra:
+ social:
     # - icon: fontawesome/brands/mastodon
     #   link: 
     #   name: 
@@ -42,13 +42,20 @@ theme:
     # - icon: fontawesome/brands/github
     #   link: 
     #   name: 
-    # - icon: fontawesome/regular/envelope
-    #   link: 
-    #   name: email of IEAT
+    - icon: fontawesome/regular/envelope
+      link: mailto:info.ieat.kit@protonmail.com
+      name: email of IEAT
     
 nav:
-- About: index.md
-- Our Letter: 
-  - English: letter.md
-  - German: letter-de.md
+- About us / Über uns:
+  - index.md
+  - index-de.md
+- To KIT employees / Für Beschäftigte des KIT:
+  - to-kit-employees.md
+  - to-kit-employees-de.md
+- Our Letter / Unser Brief: 
+  - letter.md
+  - letter-de.md
+- Timeline:
+  - timeline.md
 - Contact: SUPPORT.md
