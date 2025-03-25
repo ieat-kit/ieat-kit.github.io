@@ -33,9 +33,9 @@ extra:
     # - icon: fontawesome/brands/twitter
     #   link: 
     #   name: 
-    # - icon: fontawesome/brands/instagram
-    #   link: 
-    #   name: 
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/ieat.kit
+      name: IEAT's instagram account 
     # - icon: fontawesome/brands/facebook
     #   link: 
     #   name: 
@@ -59,3 +59,4 @@ nav:
 - Timeline:
   - timeline.md
 - Contact: SUPPORT.md
+- Imprint / Impressum: imprint.md
