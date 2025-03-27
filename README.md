@@ -16,7 +16,11 @@ In any of the options, close this git repository, navigate to the root of the re
 
 #### With a container environment
 
-The easiest way to run the website locally is by using a container environment with support to Docker Compose (e.g. Docker Desktop, Podman Desktop).
+The easiest way to run the website locally is by using a container environment with support to [Docker Compose] (e.g. [Podman Desktop], [Docker Desktop]).
+
+[Docker Compose]: https://docs.docker.com/compose/
+[Docker Desktop]: https://www.docker.com/products/docker-desktop/
+[Podman Desktop]: https://podman-desktop.io/
 
 On a terminal on the root of the repository, run the following command:
 
