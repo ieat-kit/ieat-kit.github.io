@@ -4,9 +4,6 @@ Website for the Initiative Ethical Academic Ties at KIT.
 
 ## Development and Content Maintenance Guide
 
-> [!NOTE]  
-> This is still a work in progress.
-
 This website is built using [MkDocs](https://www.mkdocs.org/) with the theme [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 MkDocs is a popular static website generator written in Python, mostly used for documentation, and Material for MkDocs is a popular theme for this framework.
