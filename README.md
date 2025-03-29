@@ -2,6 +2,8 @@
 
 Website for the Initiative Ethical Academic Ties at KIT.
 
+The deployed website can be accessed at <https://ethicalties-kit.org>.
+
 ## Development and Content Maintenance Guide
 
 This website is built using [MkDocs](https://www.mkdocs.org/) with the theme [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
