@@ -13,7 +13,7 @@ markdown_extensions:
 theme:
   name: material
   language: en
-  logo: images/favicon.ico
+  logo: images/Logo IEAT 192.png
   favicon: images/favicon.ico
   features:
   - navigation.tabs
