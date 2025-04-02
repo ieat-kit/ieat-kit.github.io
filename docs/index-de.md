@@ -4,4 +4,5 @@ Wir sind eine Gruppe von Mitarbeitenden am Karlsruher Institut für Technologie 
 
 Derzeit verlangt unsere Initiative eine ethische und rechtliche Prüfung von Kooperationen mit israelischen Forschungsinstitutionen (siehe [unser Brief]), und fordert die Beendigung von Kooperationsvereinbarungen mit jenen Institutionen, welche Mitverantwortung an der langjähriger Verletzung der palästinensischen Menschenrechte tragen. Wir fokussieren uns derzeit auf israelische Institutionen, da keine andere Partnerinstitutionen des KIT mit einer Regierung und einem Militär zusammenarbeiten, welche eine illegale Besatzung aufrecht erhalten, und unter dem Verdacht stehen, einen Genozid zu begehen.
 
+Bemerkung: Wir sind keine offizielle Organisationseinheit des KIT.
 [unser Brief]: ./letter-de.md
