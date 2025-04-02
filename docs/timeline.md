@@ -16,6 +16,6 @@ Recommendation by the KIT Ethics Committee to the Executive Board to have the cu
 
 Executive Board decides to let KIT legal department evaluate how the Advisory Opinion of the International Court of Justice (Nr. 2024/57) regarding the Illegal Occupation of the Occupied Palestinian Territory by Israel affects research cooperation between Israeli institutions and KIT.
 
-## March 3rd, 2025
+## March 3, 2025
 
 KIT signs new cooperation Agreements with Tel Aviv University and University of Haifa.
