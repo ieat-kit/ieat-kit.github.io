@@ -1,4 +1,4 @@
-site_name: Initiative Ethical Academic Ties at KIT
+site_name: Initiative for Ethical Academic Ties at KIT
 # repo_url: https://github.com/ieat-kit/ieat-kit.github.io
 # edit_uri: edit/main/docs/
 markdown_extensions:
@@ -13,7 +13,7 @@ markdown_extensions:
 theme:
   name: material
   language: en
-  logo: images/favicon.ico
+  logo: images/Logo IEAT 192.png
   favicon: images/favicon.ico
   features:
   - navigation.tabs

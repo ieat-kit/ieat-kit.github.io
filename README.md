@@ -2,10 +2,9 @@
 
 Website for the Initiative Ethical Academic Ties at KIT.
 
-## Development and Content Maintenance Guide
+The deployed website can be accessed at <https://ethicalties-kit.org>.
 
-> [!NOTE]  
-> This is still a work in progress.
+## Development and Content Maintenance Guide
 
 This website is built using [MkDocs](https://www.mkdocs.org/) with the theme [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
@@ -19,7 +18,11 @@ In any of the options, close this git repository, navigate to the root of the re
 
 #### With a container environment
 
-The easiest way to run the website locally is by using a container environment with support to Docker Compose (e.g. Docker Desktop, Podman Desktop).
+The easiest way to run the website locally is by using a container environment with support to [Docker Compose] (e.g. [Podman Desktop], [Docker Desktop]).
+
+[Docker Compose]: https://docs.docker.com/compose/
+[Docker Desktop]: https://www.docker.com/products/docker-desktop/
+[Podman Desktop]: https://podman-desktop.io/
 
 On a terminal on the root of the repository, run the following command:
 
