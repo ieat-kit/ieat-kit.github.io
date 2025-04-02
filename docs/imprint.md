@@ -2,7 +2,8 @@
 
 ## Provider
 
-Initiative for Ethical Academic Ties at KIT 
+Initiative for Ethical Academic Ties at KIT
+
 Steinstraße 23, 76133 Karlsruhe
 
 ## Contact us
