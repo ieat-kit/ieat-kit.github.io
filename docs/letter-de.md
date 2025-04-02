@@ -2,11 +2,11 @@
 
 (In das Deutsche übersetzte Fassung des Englischen Originals)
 
-An den Vorstand des _KIT_,  
- An die Mitglieder des _KIT_-Senats,  
- an die Mitglieder der _KIT_-Ethikkommission,  
+An die Mitglieder des _KIT_-Präsidiums,  
+an die Mitglieder des _KIT_-Senats,  
+an die Mitglieder des _KIT_-Ethikkommittees,  
 
-Die Leitlinien für die ethischen Grundsätze des _KIT_ legen die Pflichten eines jeden Mitglieds des _KIT_ fest und definieren auch die Grundlagen der Zusammenarbeit mit den Partnern des _KIT_[^1]. In den ethischen Grundsätzen heißt es unter anderem:
+Die Leitlinien für die ethischen Grundsätze des _KIT_ legen die Pflichten jedes Mitglieds des _KIT_ fest und definieren auch die Grundlagen der Zusammenarbeit mit den Partnern des _KIT_[^1]. In den ethischen Grundsätzen heißt es unter anderem:
 
 > „Wir tragen Verantwortung für unser Handeln und für die Folgen unseres Handelns. Unsere Arbeit soll dem Erkenntnisgewinn, dem nachhaltigen Nutzen für die Menschheit und dem Schutz der Umwelt dienen, sowie friedliche Zwecke verfolgen.“
 
@@ -14,7 +14,7 @@ Darüber hinaus fordern die Handlungsmaximen die _KIT_-Mitglieder auf:
 
 > „durch adäquate Wahl unserer …Kooperationspartner … Risiken und Missbrauchsgefahr zu minimieren … und ... auf Forschungsaktivitäten, die mit nicht einschränkbaren Risiken verbunden sind, endgültig zu verzichten.“
 
-Dieses Schreiben zeigt auf, dass Kooperationsvereinbarungen mit israelischen Universitäten diese grundlegenden ethischen Prinzipien verletzen, da sie sich an Israels langjähriger Verletzung der palästinensischen Menschenrechte mitverantwortlich machen. Unsere Forderungen an das _KIT_, nach seinen eigenen ethischen Grundsätzen zu handeln, sind am Ende dieses Schreibens dargelegt und basieren auf dem folgenden Kontext:
+Dieses Schreiben zeigt auf, dass Kooperationsvereinbarungen mit israelischen Universitäten diese grundlegenden ethischen Prinzipien verletzen, da sie sich an Israels langjähriger Verletzung der palästinensischen Menschenrechte mitverantwortlich machen. Unsere Forderungen an das _KIT_, im Einklang mit seinen eigenen ethischen Grundsätzen zu handeln, sind am Ende dieses Schreibens dargelegt und basieren auf dem folgenden Kontext:
 
 ## Der Kontext
 
@@ -55,7 +55,7 @@ Verfasst von den Mitgliedern der “Initiative for Ethical Academic Ties at _KIT
 
 ## Unterschriften
 
-Zusätzlich zu den 56 öffentlichen Unterschriften, wollen 94 Mitarbeiter und Mitarbeiterinnen des KIT, dass ihre Unterschrift anonym bleibt.  Unterschriften wurden zuletzt am 16 Dezember 2024 aktualisiert.
+Zusätzlich zu den 57 öffentlichen Unterschriften, haben 91 Mitarbeitende anonym unterschrieben. Unterschriften wurden zuletzt am 17 März 2025 aktualisiert.
 
 * Dr. Maximilian Tschol
 * Dr. Conor Simpson
@@ -75,7 +75,7 @@ Zusätzlich zu den 56 öffentlichen Unterschriften, wollen 94 Mitarbeiter und Mi
 * Malki Maliha
 * Giorgia Savettiere
 * Michele Mesiti
-* Tobias WeingÃ¤rtner
+* Tobias Weingärtner
 * Ali Abou-Sena
 * Dr. Louis Garenaux
 * Romain Maure
@@ -101,7 +101,7 @@ Zusätzlich zu den 56 öffentlichen Unterschriften, wollen 94 Mitarbeiter und Mi
 * Nasrin Mostafavipak
 * Dr. Michal Kaminski
 * Tobias Laimer
-* Dr. Adrien Damseaux 
+* Dr. Adrien Damseaux
 * Sabrina Bittencourt Medeiros Drummond MSc
 * Luna Labenz
 * Ingo Laubenthal
@@ -111,6 +111,12 @@ Zusätzlich zu den 56 öffentlichen Unterschriften, wollen 94 Mitarbeiter und Mi
 * Tim Kurtz
 * Beatriz Lista Lema
 * Falastine Abusaif
+* Saleh Gholam Zadeh
+* Carmen Pérez León
+* MD Shojib
+
+
+
 
 [^1]: <https://www.ethik.kit.edu/leitlinien.php>
 [^2]: <https://www.icj-cij.org/sites/default/files/case-related/186/186-20240719-sum-01-00-en.pdf>

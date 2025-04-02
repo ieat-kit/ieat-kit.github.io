@@ -49,7 +49,7 @@ Written by the members of the Initiative for Ethical Academic Ties at KIT
 
 ## Signatures
 
-In addition to these 56 signatures, 94 verified employees have additionally signed, but wish their signatures to stay anonymous to the public. Signatures last updated on 16 Dec 2024.
+In addition to these 57 signatures, 94 verified employees have additionally signed, but wish their signatures to stay anonymous to the public. Signatures last updated on 17 March 2025.
 
 * Dr. Maximilian Tschol
 * Dr. Conor Simpson
@@ -69,7 +69,7 @@ In addition to these 56 signatures, 94 verified employees have additionally sign
 * Malki Maliha
 * Giorgia Savettiere
 * Michele Mesiti
-* Tobias WeingÃ¤rtner
+* Tobias Weingärtner
 * Ali Abou-Sena
 * Dr. Louis Garenaux
 * Romain Maure
@@ -95,7 +95,7 @@ In addition to these 56 signatures, 94 verified employees have additionally sign
 * Nasrin Mostafavipak
 * Dr. Michal Kaminski
 * Tobias Laimer
-* Dr. Adrien Damseaux 
+* Dr. Adrien Damseaux
 * Sabrina Bittencourt Medeiros Drummond MSc
 * Luna Labenz
 * Ingo Laubenthal
@@ -105,6 +105,10 @@ In addition to these 56 signatures, 94 verified employees have additionally sign
 * Tim Kurtz
 * Beatriz Lista Lema
 * Falastine Abusaif
+* Saleh Gholam Zadeh
+* Carmen Pérez León
+* MD Shojib
+
 
 [^1]: <https://www.ethik.kit.edu/leitlinien.php>
 [^2]: <https://www.icj-cij.org/sites/default/files/case-related/186/186-20240719-sum-01-00-en.pdf>
