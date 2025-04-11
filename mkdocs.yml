@@ -58,5 +58,7 @@ nav:
   - letter-de.md
 - Timeline:
   - timeline.md
-- Contact: SUPPORT.md
+- News: 
+  - news.md
+  - news-de.md
 - Imprint / Impressum: imprint.md
