@@ -38,5 +38,5 @@ KIT pledges to sign new cooperation Agreements with Tel Aviv University and Univ
 
 KIT Ethics Committee votes against a new statement or recommendation.
 
-> The Ethics Committee declines to elaborate on its criteria and procedures guiding case by case evaluations. It declines to clarify whether it acknowledges direct or indirect Human Rights Violations by (potential) partners as impacting the permissibility of cooperation. It further does not respond to our plea to work on a transparent Human Rights Impact assessment for international cooperation.
+> The Ethics Committee declines to elaborate on its criteria and procedures guiding case by case evaluations. It declines to clarify whether it acknowledges direct or indirect Human Rights Violations by (potential) partners as impacting the permissibility of cooperation. It further does not respond to our plea to work on a transparent Human Rights Impact Assessment for international cooperation.
 
