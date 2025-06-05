@@ -55,7 +55,7 @@ Verfasst von den Mitgliedern der “Initiative for Ethical Academic Ties at _KIT
 
 ## Unterschriften
 
-Zusätzlich zu den 57 öffentlichen Unterschriften, haben 91 Mitarbeitende anonym unterschrieben. Unterschriften wurden zuletzt am 17 März 2025 aktualisiert.
+Zusätzlich zu den 58 öffentlichen Unterschriften, haben 91 Mitarbeitende anonym unterschrieben. Unterschriften wurden zuletzt am 5 Juni 2025 aktualisiert.
 
 * Dr. Maximilian Tschol
 * Dr. Conor Simpson
@@ -114,6 +114,7 @@ Zusätzlich zu den 57 öffentlichen Unterschriften, haben 91 Mitarbeitende anony
 * Saleh Gholam Zadeh
 * Carmen Pérez León
 * MD Shojib
+* Merlin Keitz
 
 
 

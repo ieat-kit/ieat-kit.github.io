@@ -49,7 +49,7 @@ Written by the members of the Initiative for Ethical Academic Ties at KIT
 
 ## Signatures
 
-In addition to these 57 signatures, 91 verified employees have additionally signed, but wish their signatures to stay anonymous to the public. Signatures last updated on 17 March 2025.
+In addition to these 58 signatures, 91 verified employees have additionally signed, but wish their signatures to stay anonymous to the public. Signatures last updated on 5 June 2025.
 
 * Dr. Maximilian Tschol
 * Dr. Conor Simpson
@@ -108,6 +108,7 @@ In addition to these 57 signatures, 91 verified employees have additionally sign
 * Saleh Gholam Zadeh
 * Carmen Pérez León
 * MD Shojib
+* Merlin Keitz
 
 
 [^1]: <https://www.ethik.kit.edu/leitlinien.php>
