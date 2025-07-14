@@ -15,14 +15,19 @@ e-mail: <mailto:info.ieat.kit@protonmail.com>
 This legal notice also applies to the following social media profiles:  
 Instagram: [ieat.kit](https://www.instagram.com/ieat.kit)
 
+
+
+
 # Privacy Policy / Datenschutzerklärung
 
-1. Introduction
+## 1. Introduction
+ 
 This website is operated by: IEAT.
 It is very important to us to handle the data of our website visitors with confidence and to protect them in the best possible way. For this reason, we make every effort to comply with the requirements of the GDPR.
 Below we explain how we process your data on our website. To do this, we use language that is as clear and transparent as possible so that you really understand what happens to your data.
 
-2. General information
+## 2. General information
+ 
 2.1 Processing of personal data and other terms
 Data protection applies to the processing of personal data. Personal data means all data with which you can be personally identified. This is, for example, the IP address of the device (PC, laptop, smartphone, etc.) you are currently using. Such data is processed when 'something happens to it'. Here, for example, the IP is transmitted from the browser to our provider and automatically stored there. This is then a processing (according to Art. 4 No. 2 GDPR) of personal data (according to Art. 4 No. 1 GDPR).
 These and other legal definitions can be found in Art. 4 GDPR.
@@ -63,7 +68,8 @@ e) 	processing is necessary for the performance of a task carried out in the pub
 f) 	processing is necessary for the purposes of safeguarding the legitimate interests of the responsible person(s) or of a third party, unless the interests or fundamental rights and freedoms of the data subject which require the protection of personal data override this, in particular where the data subject is a child.
 In the following sections, we will provide you with the specific legal basis for the respective processing.
 
-3. What happens on our website
+## 3. What happens on our website
+
 By visiting our website, we process personal data from you.
 To protect this data as best as possible against unauthorized access by third parties, we use SSL or TLS encryption. You can recognize this encrypted connection by the fact that a https:// or a lock symbol is displayed in the address bar of your browser.
 In the following, you will learn what data is collected when you visit our website, for what purpose this is done, and on what legal basis.
@@ -136,7 +142,8 @@ Processing of personal data and cookies by Meta
 When you access an Instagram page, the IP address assigned to your device is transmitted to Meta. According to Meta, this IP address is anonymized (for "German" IP addresses). Meta also stores information about the end devices of its users (e.g., as part of the "login notification" function); Meta may thus be able to assign IP addresses to individual users. If you are currently logged in to Instagram as a user, a cookie with your Instagram ID is stored on your device. This enables Meta to track that you have visited this page and how you have used it. Meta buttons integrated into websites enable Meta to record your visits to these websites and assign them to your Instagram profile. This data can be used to tailor content or advertising to you.
 Further information: https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect.
 
-4. This is also important
+## 4. This is also important
+
 Finally, we would like to inform you in detail about your rights and how you will be informed about changes in data protection requirements.
 4.1 Your Rights in detail
 4.1.1 Right to information according to Art. 15 GDPR
@@ -160,5 +167,6 @@ In addition, we would also like to inform you about your rights according to §�
 4.1.9 Right of appeal according to Art. 77 
 You also have the right to lodge a complaint with a data protection supervisory authority if you consider that the processing of personal data relating to you infringes this Regulation.
 
-5. What if tomorrow the GDPR is abolished or other changes take place?
+## 5. What if tomorrow the GDPR is abolished or other changes take place?
+
 The current status of this Privacy Policy is June 8, 2025. From time to time it is necessary to adapt the content of the Privacy Policy in order to react to actual and legal changes. We therefore reserve the right to amend this Privacy Policy at any time. We will publish the amended version in the same place and recommend that you read the Privacy Policy regularly.
