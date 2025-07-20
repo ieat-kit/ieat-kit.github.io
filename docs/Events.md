@@ -1,9 +1,8 @@
 # Events / Veranstaltungen
 
 ## Panel discusion   
-## Tuesday, 22nd July 2025, 19:00 to 21:00 h (Entrance 18 h)
-
 ## Middle East Conflict and International Law - The Responsibility of German Universities
+### Tuesday, 22nd July 2025, 19:00 to 21:00 h (Entrance 18 h)
 
 On July 22, 2025 at 7 pm (admission 6 pm) at Restaurant Akropolis (Baumeisterstraße 18, 76137 Karlsruhe), we are hosting a panel discussion that will explore the question of what obligations German universities should have towards partners that violate international or human rights standards.
 
@@ -19,9 +18,8 @@ Germany
 The event will be held in German
 
 ## Podiumsgespräch 
-## Dienstag,  22. Juli 2025,  19:00 bis 21:00 Uhr  (Einlass 18 Uhr)
-
 ## Nahost-Konflikt und Völkerrecht – die Verantwortung deutscher Universitäten
+### Dienstag,  22. Juli 2025,  19:00 bis 21:00 Uhr  (Einlass 18 Uhr)
 
 Am 22. Juli 2025 um 19 Uhr (Einlass 18 Uhr) im Restaurant Akropolis (Baumeisterstraße 18, 76137 Karlsruhe) veranstalten wir eine Podiumsdiskussion, die der Frage nachgeht, welche Verpflichtungen deutsche Hochschulen gegenüber Partnern haben sollten, die gegen völker- oder menschenrechtliche Standards verstoßen. 
 
