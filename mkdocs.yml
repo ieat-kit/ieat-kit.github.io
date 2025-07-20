@@ -61,4 +61,6 @@ nav:
 - News: 
   - news.md
   - news-de.md
+- Events: 
+  - Events.md
 - Imprint / Impressum: imprint.md
