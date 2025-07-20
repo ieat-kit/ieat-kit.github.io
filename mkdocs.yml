@@ -56,11 +56,13 @@ nav:
 - Our Letter / Unser Brief: 
   - letter.md
   - letter-de.md
-- Timeline:
+- Timeline / Chronik:
   - timeline.md
-- News: 
+- News / Neuigkeiten: 
   - news.md
   - news-de.md
-- Events: 
+- Events / Veranstaltungen: 
   - Events.md
-- Imprint / Impressum: imprint.md
+- Imprint / Impressum: 
+  - imprint.md
+  - privacy policy.md
