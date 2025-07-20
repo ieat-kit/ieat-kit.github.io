@@ -1,9 +1,7 @@
 # Events / Veranstaltungen
 
-Tuesday, 22nd July 2025, 19:00 to 21:00 h (Entrance 18 h)
-Dienstag,  22. Juli 2025,  19:00 bis 21:00 Uhr  (Einlass 18 Uhr)
-
-## Panel discusion 
+## Panel discusion   
+## Tuesday, 22nd July 2025, 19:00 to 21:00 h (Entrance 18 h)
 
 ## Middle East Conflict and International Law - The Responsibility of German Universities
 
@@ -21,6 +19,7 @@ Germany
 The event will be held in German
 
 ## Podiumsgespräch 
+## Dienstag,  22. Juli 2025,  19:00 bis 21:00 Uhr  (Einlass 18 Uhr)
 
 ## Nahost-Konflikt und Völkerrecht – die Verantwortung deutscher Universitäten
 
@@ -35,5 +34,6 @@ Baumeisterstraße 18
 Karlsruhe 76131
 Deutschland
 
+![Alt text for accessibility](images/poster.png)
 
 
