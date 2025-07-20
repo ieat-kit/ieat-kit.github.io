@@ -1,5 +1,27 @@
 # Neuigkeiten
 
+## Pressemitteilung am 15 Juli 2025
+
+### KIT: Konflikt um Kooperationen mit Israel schwelt weiter - Initiative von KIT-Angehörigen beharrt auf Überprüfung
+
+Das Vorgehen des israelischen Militärs im Gaza-Krieg und die Verhältnisse in den von Israel besetzten palästinensischen Gebieten werden in der deutschen Öffentlichkeit zunehmend scharf kritisiert. Auch die neue Bundesregierung, die sich mit Kritik an Israel lange zurückgehalten hatte, spricht neuerdings von einer Verletzung des humanitären Völkerrechts ([Link Text](https://www.tagesschau.de/inland/innenpolitik/merz-israel-kritik-100.html)).
+
+Eine Initiative von Mitarbeitenden des Karlsruher Instituts für Technologie (KIT) lenkt seit dem Herbst 2024 den Blick auf Kooperationen zwischen dem KIT einerseits und Universitäten und Forschungsein-richtungen in Israel andererseits. Letztere arbeiten häufig sehr eng mit dem Militär zusammen und sind dann nach den Recherchen der Gruppe sowohl direkt als auch indirekt  an Völkerrechtsverletzungen des israelischen Militärs beteiligt. Die „Initiative für ethische akademische Beziehungen am KIT (IEAT)" fordert vom Präsidium des KIT, bestehende Kooperationen darauf hin zu überprüfen, ob sie noch mit den ethischen Leitlinien vereinbar sind, die sich das KIT auferlegt hat.
+
+Bereits im vergangenen Jahr haben eine Reihe von europäischen Universitäten begonnen, ihre Bezie-hungen zu israelischen Universitäten und Forschungseinrichtungen auf den Prüfstand zu stellen und teilweise auszusetzen ([Link Text](https://www.vrt.be/vrtnws/de/2025/01/31/flaemische-universitaeten-werden-nicht-mehr-mit-israelischen-par/?utm_source=chatgpt.com
+https://www.vrt.be/vrtnws/de/2025/05/14/vub-rektor-danckaert-die-eu-soll-ihr-kooperationsabkommen-mit-i
+https://www.vrt.be/vrtnws/de/2024/05/17/die-universitaet-gent-beendet-die-zusammenarbeit-mit-3-israelisc
+https://www.vrt.be/vrtnws/de/2024/05/10/bruesseler-vub-uni-will-aus-ki-forschungsprojekten-aussteigen-a
+https://www.juedische-allgemeine.de/politik/bruesseler-uni-setzt-zusammenarbeit-mit-israel-vollstaendig-aus/
+https://taz.de/Der-Gaza-Krieg-und-Europa/!6009583/)). Obwohl dies auch in Deutschland an mehreren Universitäten von Studieren-den, Mitarbeitenden oder externen Gruppen vielfach gefordert wurde, haben diese darauf bisher nicht reagiert. Mit starker Ablehnung  durch die Leitung des KIT war auch die "Initiative für ethische akademische Beziehungen am KIT" ("IEAT") konfrontiert. "Da Kritik an Israel in Deutschland zurecht ein sehr sensibles Thema ist, war durchaus damit zu rechnen, dass unser Anliegen nicht sofort auf offene Ohren stößt", sagt Dr. Max Tschol, Mitgründer der Initiative. "Die rigorose Ablehnung, die uns von Sei-ten des Präsidiums entgegengeschlagen ist, hat uns aber doch überrascht.“ So habe das Präsidium der IEAT schon in einer ersten Reaktion negative Aussagen und Haltungen unterstellt, die einer sachlichen Grundlage entbehrten. "Zudem ist es uns verwehrt worden, eine Informations- und Diskussionsveran-staltung in den Räumen des KIT durchzuführen", ergänzt Tschol. 
+
+Dennoch möchte die Initiative nicht aufgeben und lädt nun für den 22. Juli um 19.00 Uhr zu einer öf-fentlichen Veranstaltung im Zieglersaal des Restaurant Akropolis in die Karlsruher Baumeisterstraße 18 ein. Neben einem Vertreter der Initiative werden die Anwältin Rana Issazadeh, der jüdische Ökonom Dr. Shir Hever und der emeritierte Theologe Prof. Ulrich Duchrow über die Situation in Israel und Paläs-tina und über die Verantwortung westlicher Universitäten sprechen.
+
+Die Dringlichkeit, sich hierzulande mit dieser Problematik zu  befassen, sieht die IEAT durch die wach-sende internationale Einigkeit, dass Israel einen Genozid in Gaza begeht, bestätigt ([Link Text](https://internationalpolicy.org/publications/growing-consensus-on-israels-atrocities-in-gaza/
+https://www.commondreams.org/news/israel-is-committing-genocide-in-gaza
+ )) . In ihrem jüngsten Bericht mit dem Titel "Von der Wirtschaft der Besatzung zur Wirtschaft des Völkermords" ([Link Text](https://www.ohchr.org/en/documents/country-reports/ahrc5923-economy-occupation-economy-genocide-report-special-rapporteur)) kritisiert die UN-Sonderberichterstatterin Francesca Albanese die Weltgemeinschaft für ihre zögerliche Hal-tung. Staatliche und nichtstaatliche Akteure fordert sie darin dringend auf, dem Vorgehen Israel ent-schieden entgegenzutreten, unter anderem durch ein sofortiges Waffenembargo, umfangreiche Sank-tionen und die Suspendierung von Handelsabkommen und Investitionen.  
+
+
 
 ## Pressemitteilung am 6 April 2025
 
