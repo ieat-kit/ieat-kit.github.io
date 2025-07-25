@@ -1,5 +1,21 @@
 # News
 
+## Press Release on July 15, 2025 
+
+### Conflict over cooperation with Israel continues to smoulder – initiative by KIT members insists on review
+
+The actions of the Israeli military in the Gaza war and the conditions in the Palestinian territories occupied by Israel are coming under increasingly sharp criticism from the German public. Even the new federal government, which had long refrained from criticising Israel, has recently spoken of a violation of international humanitarian law (1).
+
+Since autumn 2024, an initiative by employees of the Karlsruhe Institute of Technology (KIT) has been drawing attention to cooperation between KIT on the one hand and universities and research institutions in Israel on the other. The latter often work very closely with the military and, according to the group's research, are then directly and indirectly involved in violations of international law by the Israeli military. The ‘Initiative for Ethical Academic Relations at KIT (IEAT)’ is calling on the KIT Presidium to review existing collaborations to determine whether they are still compatible with the ethical guidelines that KIT has imposed on itself.
+
+Last year, a number of European universities began to review their relationships with Israeli universities and research institutions and, in some cases, suspended them (2). Although this has also been demanded by students, staff and external groups at several universities in Germany, they have not yet responded. The ‘Initiative for Ethical Academic Relations at KIT’ (IEAT) also faced strong opposition from the KIT management. ‘Since criticism of Israel is rightly a very sensitive issue in Germany, it was to be expected that our concerns would not immediately be met with open ears,’ says Dr. Max Tschol, co-founder of the initiative. ‘However, we were surprised by the rigorous rejection we encountered from the Presidium.’ In its initial response, the IEAT executive committee made negative statements and took positions that were not based on facts. ‘In addition, we were denied permission to hold an information and discussion event on the premises of KIT,’ adds Tschol. 
+
+Nevertheless, the initiative does not want to give up and is now inviting the public to a public event on 22 July at 7 p.m. in the Zieglersaal of the Akropolis restaurant at Baumeisterstraße 18 in Karlsruhe. In addition to a representative of the initiative, lawyer Rana Issazadeh, Jewish economist Dr Shir Hever and emeritus theologian Prof. Ulrich Duchrow will speak about the situation in Israel and Palestine and the responsibility of Western universities.
+
+The IEAT sees the growing international consensus that Israel is committing genocide in Gaza as confirmation of the urgency of addressing this issue in this country (3). In her latest report entitled ‘From the Economy of Occupation to the Economy of Genocide’ (4), UN Special Rapporteur Francesca Albanese criticises the international community for its hesitant attitude. She urges state and non-state actors to take decisive action against Israel's actions, including an immediate arms embargo, comprehensive sanctions and the suspension of trade agreements and investments.
+
+
+
 ## Press Release on April 6, 2025 
 
 ### Executive Board of German University under Criticism: Staff initiative Calls for Urgent Review of Collaborations with Israeli Research and Teaching Institutions  
