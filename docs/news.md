@@ -4,7 +4,7 @@
 
 ### Conflict over cooperation with Israel continues to smoulder – initiative by KIT members insists on review
 
-The actions of the Israeli military in the Gaza war and the conditions in the Palestinian territories occupied by Israel are coming under increasingly sharp criticism from the German public. Even the new federal government, which had long refrained from criticising Israel, has recently spoken of a violation of international humanitarian law (1).
+The actions of the Israeli military in the Gaza war and the conditions in the Palestinian territories occupied by Israel are coming under increasingly sharp criticism from the German public. Even the new federal government, which had long refrained from criticising Israel, has recently spoken of a violation of international humanitarian law.<sup><a href="https://www.tagesschau.de/inland/innenpolitik/merz-israel-kritik-100.html" target="_blank">[1]</a></sup>
 
 Since autumn 2024, an initiative by employees of the Karlsruhe Institute of Technology (KIT) has been drawing attention to cooperation between KIT on the one hand and universities and research institutions in Israel on the other. The latter often work very closely with the military and, according to the group's research, are then directly and indirectly involved in violations of international law by the Israeli military. The ‘Initiative for Ethical Academic Relations at KIT (IEAT)’ is calling on the KIT Presidium to review existing collaborations to determine whether they are still compatible with the ethical guidelines that KIT has imposed on itself.
 
