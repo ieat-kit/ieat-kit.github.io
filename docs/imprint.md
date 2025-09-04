@@ -14,3 +14,5 @@ e-mail: <mailto:info.ieat.kit@protonmail.com>
 
 This legal notice also applies to the following social media profiles:  
 Instagram: [ieat.kit](https://www.instagram.com/ieat.kit)
+
+
