@@ -50,7 +50,7 @@ KIT Ethics Committee meets with IEAT for an exchange.
 
 > EC does not take up IEATs suggestion for KIT to develop a human rights impact assessment for collaborating institutions. 
 
-## September 30th, 2025
+## September 30, 2025
 
 KIT provides written assessment of its legal obligations under international and German Constitutional law regarding ongoing and future collaborations with Israeli universities and research institutions.
 
