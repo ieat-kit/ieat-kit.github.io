@@ -1,5 +1,19 @@
 # Events / Veranstaltungen
 
+# Upcoming
+
+## Vortrag
+### Ein Reisebericht: Leben Unter Israelischer Besatzung
+#### Donnerstag, 21.Mai 2026, 19:00 bis 21:00 (Einlass 18:00)
+
+
+
+
+![Alt text for accessibility](images/poster2.png)
+
+
+# Old
+
 ## Panel discusion   
 ### Middle East Conflict and International Law - The Responsibility of German Universities
 #### Tuesday, 22nd July 2025, 19:00 to 21:00 h (Entrance 18 h)
